@@ -1,6 +1,5 @@
 ##### Cloud Engineering Fundamentals
-
-by Nadia Shabeer additional Notes
+by Nadia Shabeer
 
 
 
