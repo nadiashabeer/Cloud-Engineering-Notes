@@ -1,6 +1,5 @@
 ##### Cloud Engineering Fundamentals
-
-by Nadia Shabeer NCPL
+by Nadia Shabeer
 
 
 
