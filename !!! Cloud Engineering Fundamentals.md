@@ -3,15 +3,7 @@ by Nadia Shabeer
 
 
 
-###### **Udemy Account Details**
 
-
-
-https://ncplinc.udemy.com
-
-Username: m365@ncplconsulting.net
-
-Password: Ncpl@M365#T3am!2025
 
 
 
